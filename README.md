@@ -1,3 +1,4 @@
+# About
 This repository provides codes and documentation required to implement historical linking methods. Details of methods can be found in the paper “Automated Linking of Historical Data” by Ran Abramizky, Leah Boustan, Katherine Eriksson, James Feigenbaum, and Santiago Pérez.
 
 Please cite this paper if you use code from this folder.
