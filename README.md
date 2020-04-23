@@ -22,7 +22,7 @@ This approach ([Abramitzky, Mill, and Perez 2019](https://ranabr.people.stanford
 
 
 
-## Contact Information
+## Contact
 If you have any issues or feedback on these codes, you can raise an issue or directly contact us: ranabr@stanford.edu (Ran Abramitzky),  lboustan@princeton.edu (Leah Boustan), kaeriksson@ucdavis.edu (Katherine Eriksson).
 
 
