@@ -1,11 +1,12 @@
+# Historical Record Linking
 ![Image1](https://iowaculture.gov/sites/default/files/styles/general_content_feature_image/public/history-research-collections-census.jpg?itok=TfHQ0mxj&c=dc368fe2ea1c374e49ce98ecc80ac229)
-# About
+## About
 This repository provides codes and documentation required to implement historical linking methods. Details of methods can be found in the paper: [Abramizky, Boustan, Eriksson, Feigenbaum, and Pérez (2020). "Automated Linking of Historical Data".](https://ranabr.people.stanford.edu/sites/g/files/sbiybj5391/f/linking_may2019.pdf)
 
 Please cite this paper if you use code from this folder.
 
 
-# Notes on methods in repository
+## Notes on methods in repository
 
 Currently, the repository provides codes for two such methods:
 
@@ -17,7 +18,7 @@ This approach ([Abramitzky, Mill, and Perez 2019](https://ranabr.people.stanford
 
 
 
-# Contact Information
+## Contact Information
 Contact Information: ranabr@stanford.edu (Ran Abramitzky),  lboustan@princeton.edu (Leah Boustan), kaeriksson@ucdavis.edu (Katherine Eriksson).
 
 
